@@ -1,4 +1,4 @@
-# XM Cloud Next.js Starter Kit
+# XM Cloud Next.js Starter Kit - Next JS
 This repository contains the Next.js Starter Kit for Sitecore XM Cloud Development. It is intended to get developers up and running quickly with a new Next.js project that is integrated with Sitecore XM Cloud.
 
 ## GitHub Template
