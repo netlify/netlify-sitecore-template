@@ -31,3 +31,6 @@ scjssconfig.json
 
 # netlify
 .netlify
+
+# deno
+deno.lock
