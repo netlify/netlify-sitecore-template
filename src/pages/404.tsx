@@ -57,4 +57,6 @@ export const getStaticProps: GetStaticProps = async (context) => {
   };
 };
 
+//comments
+
 export default Custom404;
